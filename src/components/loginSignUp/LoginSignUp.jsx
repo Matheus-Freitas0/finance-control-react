@@ -27,12 +27,13 @@ function LoginSignUp() {
           <img src={password_icon} alt="password" />
           <input type="password" placeholder="Password" />
         </div>
-
       </div>
-        
-        <div className="forgot-password">
-          Lost password? <span>Click here</span>
-        </div>
+
+      <div className="forgot-password">
+        <p>
+          'Lost password? <span>Click here</span>'
+        </p>
+      </div>
 
       <div className="submit-container">
         <div className="submit"> Sign Up</div>
