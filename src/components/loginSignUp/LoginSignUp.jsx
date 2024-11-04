@@ -5,8 +5,9 @@ const LoginSignUp =() =>{
     return(
         <div>
             <div className="login-signup">
-                
+
             </div>
         </div>
     )
 }
+export default LoginSignUp
