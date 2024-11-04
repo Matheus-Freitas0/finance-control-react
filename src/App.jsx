@@ -3,10 +3,10 @@ import LoginSignUp from './components/loginSignUp/LoginSignUp'
 
 function App() {
 
-
   return (
-    
+    <div>
       <LoginSignUp />
+    </div>
   )
 }
 
