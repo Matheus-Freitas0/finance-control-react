@@ -17,17 +17,17 @@ function LoginSignUp () {
 
         <div className="input">
           <img src={user_icon} alt="user" />
-          <input type="text" />
+          <input type="text" placeholder="User"/>
         </div>
 
         <div className="input">
           <img src={email_icon} alt="email" />
-          <input type="email" />
+          <input type="email" placeholder="Email"/>
         </div>
 
         <div className="input">
           <img src={password_icon} alt="password" />
-          <input type="password" />
+          <input type="password" placeholder="Password"/>
         </div>
       </div>
 
@@ -39,7 +39,7 @@ function LoginSignUp () {
         <div className="submit"> Sign Up</div>
         <div className="submit"> Login</div>
       </div>
-    
+
     </div>
   );
 };
