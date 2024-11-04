@@ -14,6 +14,7 @@ function LoginSignUp () {
       </div>
 
       <div className="inputs">
+
         <div className="input">
           <img src={user_icon} alt="user" />
           <input type="text" />
@@ -31,14 +32,14 @@ function LoginSignUp () {
       </div>
 
       <div className="forgot-password">
-        lost password? <span>Click here</span>
+        Lost password? <span>Click here</span>
       </div>
 
       <div className="submit-container">
         <div className="submit"> Sign Up</div>
-        <div className="submit"> login</div>
+        <div className="submit"> Login</div>
       </div>
-
+    
     </div>
   );
 };

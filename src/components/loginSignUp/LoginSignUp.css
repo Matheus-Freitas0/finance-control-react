@@ -27,3 +27,20 @@
     border-radius: 1rem;
     margin-bottom: 0.7rem;
 }
+
+.inputs{
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+    margin-top: 2rem;
+}
+
+.input{
+    display: flex;
+    align-items: center;
+    margin: auto;
+    width: 400px;
+    height: 80px;
+    background: #eaeaea;
+    border-radius: 0.5rem;
+}
