@@ -1,10 +1,10 @@
 import email_icon from "../Assets/email.png";
 import user_icon from "../Assets/person.png";
-import password from "../Assets/password.png";
+import password_icon from "../Assets/password.png";
 import React from "react";
 import "./LoginSignUp.css";
 
-const LoginSignUp = () => {
+function LoginSignUp () {
   return (
     <div className="cointainer">
       
