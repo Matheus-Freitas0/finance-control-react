@@ -1,13 +1,12 @@
 import './App.css'
+import LoginSignUp from './components/loginSignUp/LoginSignUp'
 
 function App() {
 
 
   return (
-
-
-      <h1>Finance Control</h1>
-      
+    
+      <LoginSignUp />
   )
 }
 
