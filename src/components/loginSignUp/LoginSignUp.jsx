@@ -6,7 +6,7 @@ import "./LoginSignUp.css";
 
 function LoginSignUp () {
   return (
-    <div className="cointainer">
+    <div className="container">
       
       <div className="header">
         <div className="text"> Sign up</div>
